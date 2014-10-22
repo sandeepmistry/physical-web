@@ -51,6 +51,8 @@ __Notes__
 
 ## Using [codebender](https://codebender.cc)
 
+<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/example/BLEPeripheral/physical_web_beacon" frameborder="0"></iframe>
+
  1. Open [physical_web_beacon](https://codebender.cc/example/BLEPeripheral/physical_web_beacon) in codebender
  1. Update pin outs in sketch based on hardware setup (```URI_BEACON_REQ```, ```URI_BEACON_RDY```, ```URI_BEACON_RST```)
  1. If needed, update flags, power and URI parameters to ```uriBeacon.begin``` in sketch
